@@ -1,0 +1,2 @@
+# How to use the browser console to scrape and save data in a file with JavaScript
+- https://medium.freecodecamp.org/how-to-use-the-browser-console-to-scrape-and-save-data-in-a-file-with-javascript-b40f4ded87ef
