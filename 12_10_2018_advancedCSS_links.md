@@ -9,3 +9,9 @@
 
 # Window Resizer
 - https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en
+
+# Adaptive vs. Responsive Design
+- https://www.interaction-design.org/literature/article/adaptive-vs-responsive-design
+
+# Modern browsers support 140 named colors, which are listed below. Use them in your HTML and CSS by name, Hex color code or RGB value.
+- https://htmlcolorcodes.com/color-names/
