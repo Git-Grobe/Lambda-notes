@@ -10,3 +10,5 @@
 # Flexbox in Gifs
 - https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35
 
+# Flexbox playground
+- https://codepen.io/enxaneta/full/adLPwv/
