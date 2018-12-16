@@ -15,3 +15,6 @@
 
 # Modern browsers support 140 named colors, which are listed below. Use them in your HTML and CSS by name, Hex color code or RGB value.
 - https://htmlcolorcodes.com/color-names/
+
+# Beyond Media Queries
+- https://www.youtube.com/watch?v=zdkY7ymM0Qw&feature=youtu.be
